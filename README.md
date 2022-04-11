@@ -14,6 +14,6 @@ https://github.com/AnureetKaurVirdi/PyBer_Analysis/blob/main/analysis/Pyber_fare
 2.	There are 490 drivers in suburban city, who completed 625 rides to amount the total fares at $19,000 (approx.). In a suburban city, a driver receives less $39.50, which is less as compared to rural drivers. But the riders are charged less in suburban cities because the average fare per ride is $30.97 for suburban cities. 
 3.	Finally, the maximum number of rides are completed in urban cities, which are 1,625 rides by 2,405 drivers, which is also the maximum number of drivers as compared to rural and suburban cities. In urban cities, the drivers earn the least amount of average fare per driver, which is $16.57, and the riders are charged $24.53, which is the cheapest average fare per ride. 
 
-## Summary:
+## Summary/Recommendations:
 
 Encourage more drivers in rural and suburban areas, so that the average fare per ride is affordable for the residents. Introduce minimum pay rate for active drivers, so that they do not fear to enter the market because of competition, and give incentives to drivers who are drive full-time or complete a certain number of rides in one day. 
