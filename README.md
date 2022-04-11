@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-The purpose of this exploratory analysis of data in very large csv files. Also, through this process, different types of visualizations will be used to aid the analysis of the data. These charts would be used to showcase the relationship between the type of city, number of drivers and riders as well as the percentage of total fares, riders, and drivers by the type of city. This analysis and report will help PyBer to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
+The purpose of this project is to conduct an analysis of ride-sharing data. Also, through this process, different types of visualizations will be used to aid the analysis of the data. These charts would be used to showcase the relationship between the type of city, number of drivers and riders as well as the percentage of total fares, riders, and drivers by the type of city. This analysis and report will help PyBer to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 
 ## Results:
 
