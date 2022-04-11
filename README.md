@@ -16,4 +16,4 @@ https://github.com/AnureetKaurVirdi/PyBer_Analysis/blob/main/analysis/Pyber_fare
 
 ## Summary/Recommendations:
 
-Encourage more drivers in rural and suburban areas, so that the average fare per ride is affordable for the residents. Introduce minimum pay rate for active drivers, so that they do not fear to enter the market because of competition, and give incentives to drivers who are drive full-time or complete a certain number of rides in one day. 
+Encourage more drivers in rural and suburban areas, so that the average fare per ride is affordable for the residents. Introduce minimum pay rate for active drivers, so that they do not fear to enter the market because of competition and give incentives to drivers who are drive full-time or complete a certain number of rides in one day. 
